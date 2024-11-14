@@ -1,4 +1,4 @@
-# SessionStorage Guide for Interviews 📝
+# SessionStorage Guide 📝
 
 ## 1. Basic Concepts 🔍
 * SessionStorage is part of Web Storage API.
